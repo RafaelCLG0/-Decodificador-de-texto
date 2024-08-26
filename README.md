@@ -25,3 +25,7 @@ Funcionalidade:
 Exemplo:
 "gato" => "gaitober"
 gaitober" => "gato"
+
+Badge pela Conclusão do Desafio
+---
+<img width="400" heigth="400" src="./assets/Decodificador%20de%20texto.png">
